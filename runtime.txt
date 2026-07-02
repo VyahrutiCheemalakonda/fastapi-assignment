@@ -1,1 +1,6 @@
-python-3.12.3
+fastapi
+uvicorn
+pyjwt[crypto]
+cryptography
+python-dotenv
+pyyaml
